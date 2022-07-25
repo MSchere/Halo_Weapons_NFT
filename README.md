@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/38076357/180817334-90eac9a6-ac74-4b77-9611-846c302d0a62.png">
+  <img src="https://user-images.githubusercontent.com/38076357/180837580-4cccf71a-43b6-4c78-90b1-9ce5e4dec680.png">
 </p>
 
 # Halo Weapons NFT
