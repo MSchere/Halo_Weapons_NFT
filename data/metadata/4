@@ -1,0 +1,21 @@
+{
+    "name": "SRS99-AM Sniper Rifle",
+    "description": "The SRS99 is a semi-automatic, gas-operated rifle that fires 14.5×114mm ammunition from a four-round detachable box magazine. The ejection port is on the right side of the weapon and the charging handle is on the left side. Unlike all other known models of the SRS99 series, this variant features a thumbhole stock instead of a pistol grip, and its body sports a black and navy blue finish in addition to the gray of its successors. The SRS99 is equipped with the Oracle N-variant scope, which can display green outlines of objects when not in active use.",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/sniper_rifle.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/sniper_rifle.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/sniper_rifle.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Sniper Rifle"
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "Kinetic"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "UNSC"
+        }
+    ]
+}

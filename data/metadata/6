@@ -1,0 +1,21 @@
+{
+    "name": "Type-51 Carbine",
+    "description": "The Type-51 Carbine is a recoil-operated and charger-fed, semi-automatic marksman rifle. It serves as medium to long-range weapon utilized by Covenant forces. The weapon's cylindrical magazine holds 18 rounds, and also provides indication of number of rounds left in the magazine by utilizing a holographic display. The back end of the weapon contains two circular openings, the forward one is the weapon's hand guard and the area in front of it is where the weapon's trigger is located. On the weapon's top rail is the magazine well and ammunition chamber, next to it is a hammer like device which springs back when the weapon is fired. The forward part of the weapon contains the Type-51 Carbine's barrel, which controls the rapid acceleration of the projectile out at a high velocity.",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/carbine.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/carbine.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/carbine.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Marksman Rifle"
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "Energy"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Covenant"
+        }
+    ]
+}

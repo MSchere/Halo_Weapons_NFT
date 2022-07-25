@@ -1,0 +1,21 @@
+{
+    "name": "Flaktura Workshop Skewer",
+    "description": "The Skewer is an anti-tank weapon employed by Banished Jiralhanae, with such operators known as Skewer-bearers. The launcher fires a rocket-sized spike capable of piercing through the armor of a main battle tank, or punch through the energy shields and titanium shell of GEN3 MJOLNIR armor, even from range. The launcher has an emitter of some kind, likely of gravitic operation similar to other Jiralhanae spike weaponry, which is used to launch the spike round and can be intensified - presumably to adjust the muzzle velocity of the fired projectile. The Skewer was manufactured by the Forge of Teash and developed by the Flaktura workshop.",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/skewer.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/skewer.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/skewer.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Speargun" 
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "Spear"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Banished"
+        }
+    ]
+}

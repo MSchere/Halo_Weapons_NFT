@@ -1,0 +1,21 @@
+{
+    "name": "H-165 Target Locator",
+    "description": "The H-165 FOM is a compact, handheld laser device designed for acquiring and designating targets for small-scale orbital bombardment from an orbiting UNSC starshipand nearby aircraft, and is typically used by Joint Fires Observer personnel. The H-165 Target Locator was preceded by the H-120 and the H-155 FOM models and was superseded in the post-war era by the H-295 FOM. While similar in function to the laser designator, the Target Locator is much smaller and can be held with one hand. The Target Locator also features a scope for target acquisition accuracy at greater range and an intercom for user communication.",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/target_locator.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/target_locator.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/target_locator.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Target Locator"
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "None"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "UNSC"
+        }
+    ]
+}

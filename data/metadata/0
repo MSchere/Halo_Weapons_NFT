@@ -1,0 +1,21 @@
+{
+    "name": "MA37 Assault Rifle",
+    "description": "The MA37 assault rifle is an air-cooled, gas-operated, magazine-fed, fully automatic rifle that fires 7.62×51mm ammunition. The MA37 is modular, which allows for easy cleaning and repair.",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/assault_rifle.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/assault_rifle.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/assault_rifle.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Marksman Rifle"
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "Kinetic"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "UNSC"
+        }
+    ]
+}

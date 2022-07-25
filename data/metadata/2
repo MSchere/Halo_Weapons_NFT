@@ -1,0 +1,21 @@
+{
+    "name": "M7 SMG",
+    "description": "The M7/Caseless Submachine Gun is an automatic submachine gun that fires from a 60-round magazine which is placed horizontally on the left side of the weapon. Due to the odd horizontal placement of the magazine on the weapon, it can be assumed that the magazine utilizes a circular ramp where the magazine meets the breech. This rotates the horizontally stacked rounds in the magazine 90 degrees until they align with the horizontal breech. An example of this can be seen in the present day Fabrique Nationale P90 SMG.",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/smg.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/smg.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/smg.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Sub Machine Gun"
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "Kinetic"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "UNSC"
+        }
+    ]
+}

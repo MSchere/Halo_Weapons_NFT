@@ -1,0 +1,21 @@
+{
+    "name": "Type-50 SRS SRS Beam Rifle",
+    "description": "The Type-50 SRS is a battery-powered directed energy weapon that fires ionized particle beams. The battery for the weapon has enough charge to fire ten shots. The muzzle velocity of the weapon is 3657 m/s (12,000 f/s), with a maximum effective range of roughly 1,500 m (4900 ft) When firing, the weapon has a near-silent and negligible muzzle signature, and inflicts wounds comparable to the 14.5×114mm round fired by the UNSC's SRS99 series of sniper rifles, capable of instantly killing a target. The beam rifle has a barrel length of 82.55 cm (32.5 in.) and an overall length of 160.4 cm (63.2 in.), weighing in at 18 kg (39.6 lbs).",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/beam_rifle.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/beam_rifle.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/beam_rifle.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Sniper Rifle"
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "Energy"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Covenant"
+        }
+    ]
+}

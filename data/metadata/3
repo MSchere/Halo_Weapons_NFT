@@ -1,0 +1,21 @@
+{
+    "name": "M90 shotgun",
+    "description": "The M90 is a pump-action shotgun, chambered in the extremely powerful 8-gauge magnum shell, and feeding from a 12-round, dual-tubular, non-detachable magazine. It is generally utilized alongside MAG 15P-00B rounds, and is designed as a more practical and cost-effective recreation of Misriah Armory’s M45E Tactical Shotgun, though in UNSC service it is considered to be functionally identical.",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/shotgun.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/shotgun.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/shotgun.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Shotgun"
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "Kinetic"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "UNSC"
+        }
+    ]
+}

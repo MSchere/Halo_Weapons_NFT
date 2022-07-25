@@ -1,0 +1,21 @@
+{
+    "name": "M392 DMR",
+    "description": "The M392 is an air-cooled, magazine-fed, gas-operated select-fire bullpup rifle that fires 7.62×51mm ammunition. It accepts a fifteen-round detachable box magazine similar. The weapon has a mounted EVOS-D optic capable of 3× magnification. The weapon's fire selector switch (located above the grip) has three settings: SAFE, FIRE, and AUTO. The magazine release button is located directly above the magazine well, behind the trigger. The weapon has an ejection port on either side so it may be used comfortably by a right- or left-handed shooter.",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/dmr.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/dmr.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/dmr.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Assault Rifle"
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "Kinetic"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "UNSC"
+        }
+    ]
+}

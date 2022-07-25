@@ -1,0 +1,21 @@
+{
+    "name": "Type-1 Energy Sword",
+    "description": "The energy sword is the signature weapon of the Sangheili and has been their chief weapon of nobility since its creation during one of the Ages of Discovery. The Sangheili pride themselves on their skills with the weapon, which they regard as holy, and believe that it is better for a Sangheili to fall on his sword to redeem his honor than to die dishonorably. The Sangheili are very strict on who can be trained in the art of swordsmanship; in civilian life only aristocrats are permitted to wield energy swords. Sword wielders are not eligible for marriage, though they may breed with any female they choose, married or otherwise, to ensure successful transmission of swordsman genes.",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/energy_sword.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/energy_sword.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/energy_sword.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Melee Weapon"
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "None"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Covenant"
+        }
+    ]
+}

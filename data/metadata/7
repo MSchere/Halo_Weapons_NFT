@@ -1,0 +1,21 @@
+{
+    "name": "Type-33 Needler",
+    "description": "The Type-33 Guided Munitions Launcher is a Covenant projectile weapon that fires long, sharp crystalline shards that are guided until they impale a target — hence the “needler” moniker. Several seconds after coming to rest in their target, the needles detonate, creating severe and in most cases fatal wounds. The needler's top plate has 14 holes, with the needles protruding out of the holes. When the trigger is pulled, the needle is fed from the top into the barrel of the weapon, and fired at high speed. The Type-33 GML is used by Covenant foot soldiers of nearly all types.",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/needler.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/needler.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/needler.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Infantry Weapon"
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "Crystal Shards"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Covenant"
+        }
+    ]
+}

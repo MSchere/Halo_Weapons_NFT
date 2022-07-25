@@ -1,0 +1,21 @@
+{
+    "name": "Type-2 Gravity Hammer",
+    "description": "The gravity hammers evolved from traditional war hammers wielded by Jiralhanae war chieftains, which were a major focus of the Jiralhanae's barbaric culture, as it serves as the ultimate symbol of clan leadership in addition to being a powerful weapon. The ceremonial hammer of a pack or a clan is only passed to another Jiralhanae if he can best his chieftain in ceremonial combat; the mantle of leadership passes along with the weapon. The wielder of the weapon was expected to treat their gravity hammer with great care.",
+    "image": "ipfs://bafybeihjzya37wpmtct2miidvvrj5vk54fpqpz4ivipzmwqa3qxeds4egq/gravity_hammer.png",
+    "animation_url":"ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/gravity_hammer.glb",
+    "external_url": "ipfs://bafybeidbgyv5qcikjme4k4xfggwmau7ktpblxjj5inhms4lwetro43uxvi/gravity_hammer.glb",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "Melee Weapon" 
+        },
+        {
+            "trait_type": "Ammo Type",
+            "value": "None"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Banished"
+        }
+    ]
+}
