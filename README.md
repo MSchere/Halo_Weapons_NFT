@@ -5,11 +5,10 @@
 # Halo Weapons NFT
 _ERC-721 NFTs with embedded 3D models built with Hardhat and Angular_
 
-Contract addresses (Rinkeby testnet):
+You can now test it [here!](https://mschere.github.io/Halo_Weapons_NFT_frontend)
 
-
-* ERC-721: 0x90F57Ad63A9A5D5E9cA9E58f5881904E75756677
-* ERC-1155: 0x6d679Cc3137ec305374eCDa91079ed1B723C138f
+Contract address (Avalanche Fuji testnet):
+* HaloNFT_721: 0xD6f7f4D1D1B987811785ad53C53e00ad62789E7a
 
 ## Instructions for local deployment:
 
